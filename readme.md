@@ -6,7 +6,6 @@
 [![Issues](https://img.shields.io/github/issues/takielias/contract-resolver?color=rgb%28134%20239%20128%29&style=for-the-badge)](https://packagist.org/packages/takielias/contract-resolver)
 [![Forks](https://img.shields.io/github/forks/takielias/contract-resolver?color=rgb%28134%20115%2022%29&style=for-the-badge)](https://packagist.org/packages/takielias/contract-resolver)
 [![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/takielias/contract-resolver/contract-resolver-tests.yml?branch=main&label=tests&style=for-the-badge)](https://github.com/takielias/contract-resolver/actions?query=workflow%3Acontract-resolver-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/takielias/contract-resolver/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=for-the-badge)](https://github.com/takielias/contract-resolver/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?logo=linkedin&color=rgba(235%2068%2050)&style=for-the-badge)](https://linkedin.com/in/takielias)
 
 A powerful Laravel package that automatically resolves and binds contracts (interfaces) to their implementations, with comprehensive code generation commands for repositories and services following the Repository and Service pattern.
