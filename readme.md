@@ -8,6 +8,11 @@
 
 A powerful Laravel package that automatically resolves and binds contracts (interfaces) to their implementations, with comprehensive code generation commands for repositories and services following the Repository and Service pattern.
 
+<a href="https://www.buymeacoffee.com/takielias" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="takielias" /></a>
+
+<br/>
+<br/>
+
 ## ✨ Features
 
 - **🔄 Auto-binding**: Automatically binds interfaces to their implementations
