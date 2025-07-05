@@ -1,4 +1,4 @@
-name: Contract Resolver Tests
+name: contract-resolver-tests
 
 on:
   push:
